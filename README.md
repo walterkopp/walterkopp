@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently doing an apprenticeship
+- ⚡ Fun fact: I do in fact, have a banana tattoed on my left forearm 🍌
+
+![mhmdio's github stats](https://github-readme-stats.vercel.app/api?username=walterkopp&count_private=true&show_icons=true&title_color=ffbb02)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walterkopp)
