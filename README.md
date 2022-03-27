@@ -16,7 +16,7 @@
 <ul align="center">
   <li>🌱 I’m currently doing <b>an apprenticeship</b></li>
   <li>💬 Ask me about: <b>AWS, Python, Video games</b></li>
-  <li>📫 How to reach me: <b>alter@globaldatanet.com</b></li>
+  <li>📫 How to reach me: <b>walter@globaldatanet.com</b></li>
   <li>⚡ Fun fact: <b>I do in fact, have a banana tattooed on my left forearm 🍌</b></li>
 </ul>
 
@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walterkopp&show_icons=true&locale=en&layout=compact&title_color=ffbb02" alt="Github top languages stats" /></p>
 
-<p style="line-height:9"><img align="left-bottom" src="https://github-readme-streak-stats.herokuapp.com?user=walterkopp&date_format=M%20j%5B%2C%20Y%5D&ring=FFBB02&sideNums=36DD64&currStreakNum=DD581B&dates=757575" alt="Gihub streak stats" /></p>
+<p style="line-height:4"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=walterkopp&date_format=M%20j%5B%2C%20Y%5D&ring=FFBB02&sideNums=36DD64&currStreakNum=DD581B&dates=757575" alt="Gihub streak stats" /></p>
