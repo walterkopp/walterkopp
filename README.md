@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=walterkopp&show_icons=true&locale=en&title_color=ffbb02" alt="Github general stats" alt="walterkopp" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walterkopp&show_icons=true&locale=en&layout=compact&title_color=ffbb02" alt="Github top languages stats" /></p>
+<p style="line-height:4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walterkopp&show_icons=true&locale=en&layout=compact&title_color=ffbb02" alt="Github top languages stats" /></p>
 
 <p style="line-height:4"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=walterkopp&date_format=M%20j%5B%2C%20Y%5D&ring=FFBB02&sideNums=36DD64&currStreakNum=DD581B&dates=757575" alt="Gihub streak stats" /></p>
