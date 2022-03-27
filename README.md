@@ -1,28 +1,41 @@
+<!-- Header -->
+
 <h1 align="center">Hi 👋, I'm Walter</h1>
 <h3 align="center">A learning enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walterkopp&label=Profile%20views&color=0e75b6&style=flat" alt="walterkopp" /> </p>
+<!-- Profile views -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walterkopp" alt="walterkopp" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=walterkopp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🌱 I’m currently doing **an apprenticeship**
+<!-- Profile trophies -->
 
-- 💬 Ask me about: **Python, AWS**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walterkopp" alt="Github profile trophies" /></a> </p>
 
-- 📫 How to reach me: **walter@globaldatanet.com**
+<!-- About me -->
 
-- ⚡ Fun fact: **I do in fact, have a banana tattooed on my left forearm 🍌**
+<ul align="center">
+  <li>🌱 I’m currently doing <b>an apprenticeship</b></li>
+  <li>💬 Ask me about: <b>AWS, Python, Video games</b></li>
+  <li>📫 How to reach me: <b>alter@globaldatanet.com</b></li>
+  <li>⚡ Fun fact: <b>I do in fact, have a banana tattooed on my left forearm 🍌</b></li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Connections -->
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/walter-kopp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walter-kopp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- Languages and Tools -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walterkopp&show_icons=true&locale=en&layout=compact" alt="walterkopp" /></p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walterkopp&show_icons=true&locale=en" alt="walterkopp" /></p>
+<!-- Github stats -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walterkopp&" alt="walterkopp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=walterkopp&show_icons=true&locale=en&title_color=ffbb02" alt="Github general stats" alt="walterkopp" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walterkopp&show_icons=true&locale=en&layout=compact&title_color=ffbb02" alt="Github top languages stats" /></p>
+
+<p style="line-height:9"><img align="left-bottom" src="https://github-readme-streak-stats.herokuapp.com?user=walterkopp&date_format=M%20j%5B%2C%20Y%5D&ring=FFBB02&sideNums=36DD64&currStreakNum=DD581B&dates=757575" alt="Gihub streak stats" /></p>
