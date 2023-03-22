@@ -39,3 +39,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walterkopp&show_icons=true&locale=en&title_color=ffbb02"> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=walterkopp&date_format=M%20j%5B%2C%20Y%5D&ring=FFBB02&sideNums=36DD64&currStreakNum=DD581B&dates=757575"> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterkopp">
+</p
