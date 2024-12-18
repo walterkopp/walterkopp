@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <h1 align="center">Hi 👋, I'm Walter</h1>
-<h3 align="center">A learning enthusiast</h3>
+<h3 align="center">A wizard pondering his orb 🔮</h3>
 
 <!-- Profile views -->
 
@@ -12,13 +12,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walterkopp" alt="Github profile trophies" /></a> </p>
 
 <!-- About me -->
-
-<ul align="center">
-  <li>🌱 I’m currently <b>a junior AWS clous developer</b></li>
-  <li>💬 Ask me about: <b>AWS, Python, Video games, Science, Philosophy</b></li>
-  <li>📫 How to reach me: <b>walter@globaldatanet.com</b></li>
-  <li>⚡ Fun fact: <b>I do in fact, have a banana tattooed on my left forearm 🍌</b></li>
+<div align="center">
+<ul>
+  <li>🌱 I’m currently <b>Open to work</b></li>
+  <li>💬 Ask me about: <b>AWS, Python, Video games, Science (MINT), Philosophy, Astronomy</b></li>
+  <li>📫 How to reach me: <b>w_kopp@outlook.com</b></li>
+  <li>⚡ Fun fact: <b>Top 5% player in For Honor ⚔</b></li>
 </ul>
+  
 
 <!-- Connections -->
 
@@ -42,3 +43,13 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterkopp">
 </p
+
+<!--- HackTheBox Badges --->
+### HackTheBox Badges
+
+|Badge|Name|Description|
+|---|---|---|
+|<img src="https://academy.hackthebox.com/storage/badges/academician.png" width="150" height="150" alt="Academian">|Academian|Introduction to Academy module completed 
+|<img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" width="150" height="150" alt="Unwavering User">|Unwavering User|Awarded when you achieve your first weekly streak|
+|<img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" width="150" height="150" alt="Your request is my demand">|Your request is my demand |Web Requests module completed |
+|<img src="https://academy.hackthebox.com/storage/badges/playing-with-the-mess.png" width="150" height="150" alt="Playing with the mess">|Playing with the mess|JavaScript Deobfuscation module completed|
