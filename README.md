@@ -12,14 +12,12 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walterkopp" alt="Github profile trophies" /></a> </p>
 
 <!-- About me -->
-<div align="center">
 <ul>
   <li>🌱 I’m currently <b>Open to work</b></li>
   <li>💬 Ask me about: <b>AWS, Python, Video games, Science (MINT), Philosophy, Astronomy</b></li>
   <li>📫 How to reach me: <b>w_kopp@outlook.com</b></li>
   <li>⚡ Fun fact: <b>Top 5% player in For Honor ⚔</b></li>
 </ul>
-  
 
 <!-- Connections -->
 
